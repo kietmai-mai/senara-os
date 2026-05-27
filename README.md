@@ -1,0 +1,2 @@
+# senara-os
+Senara OS 
